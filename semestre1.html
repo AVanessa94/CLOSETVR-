@@ -103,8 +103,35 @@
             </div>
         </section> 
     </div>
+   <section id="contactanos">
+        <div class="container">
+            <div class="title"><h1>Contactanos</h1></div>
+            <div class="form">
+                <input type="text" name="name" id="name" placeholder="Nombre Completo">
+                <input type="email" name="mail" id="mail" placeholder="Correo Electronico">
+                <input type="text" name="tel" id="tel" placeholder="Numero de Contacto">
+                <textarea rows="10" name="message" id="message" placeholder="Escribe lo que nos quieres comentar..."></textarea>
+                <button>Enviar</button>
+            </div>
+        </div>
+    </section>
     <footer>
         <span>©Todos los derechos reservados ClosetVR</span>
     </footer>
+    <div id="help-button" title="¿Necesitas ayuda?">
+  <img src="app/images/CLOSET VR/correo-de-contacto.png" alt="Ayuda" />
+</div>
+<script>
+  document.getElementById("help-button").addEventListener("click", function () {
+    const contacto = document.getElementById("contactanos");
+    if (contacto.style.display === "none" || contacto.style.display === "") {
+      contacto.style.display = "block";
+      contacto.scrollIntoView({ behavior: "smooth" });
+    } else {
+      contacto.style.display = "none";
+    }
+  });
+</script>
+
 </body>
 </html>

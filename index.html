@@ -306,5 +306,20 @@
     <footer>
         <span>©Todos los derechos reservados ClosetVR</span>
     </footer>
+    <div id="help-button" title="¿Necesitas ayuda?">
+  <img src="app/images/CLOSET VR/correo-de-contacto.png" alt="Ayuda" />
+</div>
+<script>
+  document.getElementById("help-button").addEventListener("click", function () {
+    const contacto = document.getElementById("contactanos");
+    if (contacto.style.display === "none" || contacto.style.display === "") {
+      contacto.style.display = "block";
+      contacto.scrollIntoView({ behavior: "smooth" });
+    } else {
+      contacto.style.display = "none";
+    }
+  });
+</script>
+
 </body>
 </html>

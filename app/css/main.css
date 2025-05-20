@@ -180,64 +180,92 @@ section {
         }
     }
 
-
 #contactanos {
-    display:flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-
-    .container {
-        width:30%;
-        .title {
-            text-align: center;
-        }
-
-        .form {
-            widht:100%;
-
-            input {
-                width:100%;
-                padding:20px;
-                margin:10px 0;
-                border-radius:10px;
-                border:none;
-                background:#eeee;
-                box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
-            }
-
-            textarea {
-                width:100%;
-                padding:20px;
-                resize:none;
-                margin:10px 0;
-                border-radius:5px;
-                border:none;
-                background:#eeee;
-                box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
-            }
-
-            button {
-                width:100%;
-                padding:20px;
-                border:none;
-                border-radius:5px;
-                margin:10px 0;
-                background:black;
-                color:white;
-                text-transform: uppercase;
-                color:white;
-                cursor:pointer;
-                box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
-                transition:.3s ease-in-out;
-            }
-            
-            button:hover {
-                transform: scale(1.01);
-            }
-        }
-    }
+  display: none; /* Oculto por defecto */
+  width: 100%;
+  padding: 50px 20px;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+
+#contactanos .container {
+  width: 100%;
+  max-width: 450px; /* Más estilizado */
+  margin: 0 auto;
+}
+
+#contactanos .title {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+#contactanos .form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+#contactanos .form input,
+#contactanos .form textarea {
+  width: 100%;
+  padding: 15px;
+  border-radius: 10px;
+  border: none;
+  background: #eeee;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.05);
+  font-size: 15px;
+}
+
+#contactanos .form textarea {
+  resize: none;
+  height: 150px;
+}
+
+#contactanos .form button {
+  width: 100%;
+  padding: 15px;
+  background: black;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  text-transform: uppercase;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+#contactanos .form button:hover {
+  background-color: #333;
+  transform: scale(1.02);
+}
+
+
+
+#help-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: white;
+  border-radius: 50%;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 999;
+}
+
+#help-button img {
+  width: 30px;
+  height: 30px;
+}
+
 
 #integrantes {
     width:100%;
