@@ -9,30 +9,31 @@
     <title>ClosetVR</title>
 </head>
 <body>
-    <div class="nav-bar">
+  <div class="nav-bar">
         <div class="logo">
             <h1>ClosetVR</h1>
         </div>
-        <ul class="nav-nav">
+         <ul class="nav-nav">
             <li><a href="index.html">Inicio</a></li>
-            <li><a href="integrantes.html">Integrantes</a></li>
+            <li><a href="integrantes.html">Integrantes</a></li>  
             <li>
                 <div class="dropdown">
                     <a href="#" class="dropdown">
                         Sobre nosotros <i class="fa-solid fa-chevron-down"></i>
                     </a>
-                    <ul class="list-down">
+                    <ul class="list-down"> <!-- para los dropdown les recomiendo usar divs-->
                         <li><a href="semestre1.html">Semestre 1</a></li>
-                        <li><a href="#">Semestre 2</a></li>
+                        <li><a href="semestre2.html">Semestre 2</a></li>
                         <li><a href="#">Semestre 3</a></li>
                         <li><a href="#">Semestre 4</a></li>
                         <li><a href="#">Semestre 5</a></li>
                         <li><a href="#">Semestre 6</a></li>
                     </ul>
-                </div>
+                </div>  
             </li>
+            <li> <a href="loginsignup.html" class="login-btn"> Login</a></li>
         </ul>
-    </div>
+  </div>
     <div class="header">
         <div class="container">
             <div class="left-content">
@@ -291,7 +292,11 @@
             </p>
         </div>
     </section>
-    <section id="contactanos">
+
+            </div>
+        </div>
+    </section>
+     <section id="contactanos" style="display: none;">
         <div class="container">
             <div class="title"><h1>Contactanos</h1></div>
             <div class="form">
