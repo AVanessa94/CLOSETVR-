@@ -1,7 +1,7 @@
- 👗 CLOSET VR
+ 👗** CLOSET VR**
+Tu armario… pero virtual.
 
-**CLOSET VR** es una aplicación innovadora que utiliza **Realidad Aumentada (AR)** para simplificar la selección y combinación de prendas de vestir.
-Permite a los usuarios visualizar su armario virtual, recibir recomendaciones personalizadas y probar combinaciones de ropa desde la comodidad de su hogar.
+CLOSET VR es una aplicación que mezcla moda y tecnología para ayudarte a elegir tu ropa de una forma más fácil, divertida y creativa. Gracias a la Realidad Aumentada, podrás ver tus prendas, combinarlas, y recibir sugerencias personalizadas sin salir de casa.
 
 🌐 **Demo Web:** [closetvr](https://avanessa94.github.io/CLOSETVR-/)
 
@@ -9,49 +9,47 @@ Permite a los usuarios visualizar su armario virtual, recibir recomendaciones pe
 
 ## 📌 Descripción
 
-En un mundo donde la tecnología es parte esencial de nuestra vida diaria, **CLOSET VR** ofrece una experiencia interactiva que transforma la forma en que elegimos qué ponernos.
-Gracias a la **Realidad Aumentada**, los usuarios pueden:
+¿Te ha pasado que miras tu armario y no sabes qué ponerte?
+Con CLOSET VR, ese momento se convierte en una experiencia diferente:
 
-* Visualizar sus prendas y accesorios de forma virtual.
-* Combinar diferentes estilos y colores.
-* Recibir recomendaciones adaptadas a su estilo personal.
-* Optimizar el tiempo de elección de su outfit.
+Abres tu armario virtual.
+Ves toda tu ropa y accesorios en un mismo lugar.
+Juegas con combinaciones y colores.
+Recibes ideas adaptadas a tu estilo y a la ocasión.
+Queremos que vestirte sea algo rápido y emocionante, no un dolor de cabeza.it.
 
 ---
 
-## 🎯 Objetivo
+🎯 Nuestro objetivo
+Hacer que elegir tu outfit sea más fácil y divertido.
 
-**Objetivo General:**
-Desarrollar una aplicación de realidad aumentada que permita a los usuarios visualizar y combinar outfits virtualmente, optimizando su experiencia de selección de prendas y fomentando la creatividad en su estilo personal.
+Para lograrlo, nos propusimos:
 
-**Objetivos Específicos:**
-
-* Crear un armario virtual interactivo.
-* Incorporar realidad aumentada para probar outfits.
-* Reducir el tiempo dedicado a seleccionar ropa.
-* Incentivar la creatividad en el estilo personal.
-* Ofrecer recomendaciones personalizadas para diferentes ocasiones.
+Crear un armario virtual que muestre tu ropa y accesorios.
+Usar realidad aumentada para que puedas “probarte” prendas sin ponértelas físicamente.
+Reducir el tiempo que tardas en decidir qué vestir.
+Darte ideas nuevas para que explores tu estilo personal.
+Ofrecer recomendaciones personalizadas para cada ocasión.
 
 ---
 
 ## ✨ Beneficios Esperados
 
-* **Creatividad:** Experimentar nuevos estilos y combinaciones.
-* **Ahorro de tiempo:** Seleccionar outfits de forma rápida y eficiente.
-* **Organización:** Acceso visual al armario completo.
-* **Confianza personal:** Mejorar la seguridad al elegir qué vestir.
+Ahorro de tiempo: Adiós a perder minutos frente al armario.
+Creatividad: Descubre combinaciones que nunca habías probado.
+Organización: Todo tu guardarropa en una sola app.
+Seguridad: Viste con confianza sabiendo que tu outfit encaja contigo.
 
 ---
 
 ## 🛠️ Tecnologías Utilizadas
 
-* **Frontend:** HTML, CSS, JavaScript.
-* **Backend:** Python, C++.
-* **Bases de Datos:** MySQL.
-* **Realidad Aumentada:** SDKs y APIs de AR.
-* **Gestión de Proyecto:** Asana / Trello, Microsoft Project.
-* **Hosting:** GitHub Pages.
-
+Frontend: HTML, CSS, JavaScript
+Backend: Python y C++
+Bases de datos: MySQL
+Realidad aumentada: Integración con SDKs y APIs AR
+Herramientas de gestión: Asana, Trello, Microsoft Project
+Hosting: GitHub Pages
 ---
 
 ## 📂 Funcionalidades Principales
@@ -66,12 +64,12 @@ Desarrollar una aplicación de realidad aumentada que permita a los usuarios vis
 
 ## 🚀 Estado del Proyecto
 
-* **Fase actual:** Desarrollo inicial con página web informativa.
-* **Próximos pasos:**
+En este momento estamos en fase de desarrollo inicial.
 
-  * Integración de carrito de compras.
-  * Implementación del catálogo de ropa.
-  * Incorporación de realidad aumentada para probar prendas.
+La web ya está en línea con información básica y el siguiente paso es:
+Añadir carrito de compras.
+Crear un catálogo interactivo.
+Implementar la prueba de ropa con realidad aumentada.
 
 ---
 
@@ -85,8 +83,7 @@ Desarrollar una aplicación de realidad aumentada que permita a los usuarios vis
 
 ## 📜 Licencia
 
-Este proyecto está protegido por derechos de autor. Para más información sobre su uso y distribución, consulte la sección de **Licencias de Software** y **Propiedad Intelectual** del documento del proyecto.
-
+Este proyecto y su contenido están protegidos por derechos de autor. Si quieres usarlo o colaborar, por favor contáctanos antes.
 
 
 
