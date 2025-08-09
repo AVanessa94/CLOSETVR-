@@ -1,4 +1,5 @@
- 👗** CLOSET VR**
+ ##👗**CLOSET VR **
+ 
 Tu armario… pero virtual.
 
 CLOSET VR es una aplicación que mezcla moda y tecnología para ayudarte a elegir tu ropa de una forma más fácil, divertida y creativa. Gracias a la Realidad Aumentada, podrás ver tus prendas, combinarlas, y recibir sugerencias personalizadas sin salir de casa.
