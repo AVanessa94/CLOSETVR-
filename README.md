@@ -44,12 +44,13 @@ Seguridad: Viste con confianza sabiendo que tu outfit encaja contigo.
 
 ## 🛠️ Tecnologías Utilizadas
 
-Frontend: HTML, CSS, JavaScript
-Backend: Python y C++
-Bases de datos: MySQL
-Realidad aumentada: Integración con SDKs y APIs AR
-Herramientas de gestión: Asana, Trello, Microsoft Project
-Hosting: GitHub Pages
+* **Frontend:** HTML, CSS, JavaScript.
+* **Backend:** Python, C++.
+* **Bases de Datos:** MySQL.
+* **Realidad Aumentada:** SDKs y APIs de AR.
+* **Gestión de Proyecto:** Asana / Trello, Microsoft Project.
+* **Hosting:** GitHub Pages.
+
 ---
 
 ## 📂 Funcionalidades Principales
