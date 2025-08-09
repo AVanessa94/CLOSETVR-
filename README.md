@@ -1,4 +1,4 @@
- ##👗**CLOSET VR **
+ ## 👗CLOSET VR
  
 Tu armario… pero virtual.
 
@@ -21,7 +21,9 @@ Queremos que vestirte sea algo rápido y emocionante, no un dolor de cabeza.it.
 
 ---
 
-🎯 Nuestro objetivo
+## 🎯 Nuestro objetivo
+
+
 Hacer que elegir tu outfit sea más fácil y divertido.
 
 Para lograrlo, nos propusimos:
