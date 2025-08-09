@@ -6,7 +6,7 @@ CLOSET VR es una aplicación que mezcla moda y tecnología para ayudarte a elegi
 
 🌐 **Demo Web:** [closetvr](https://avanessa94.github.io/CLOSETVR-/)
 
----
+
 
 ## 📌 Descripción
 
@@ -19,7 +19,6 @@ Juegas con combinaciones y colores.
 Recibes ideas adaptadas a tu estilo y a la ocasión.
 Queremos que vestirte sea algo rápido y emocionante, no un dolor de cabeza.it.
 
----
 
 ## 🎯 Nuestro objetivo
 
@@ -34,7 +33,7 @@ Reducir el tiempo que tardas en decidir qué vestir.
 Darte ideas nuevas para que explores tu estilo personal.
 Ofrecer recomendaciones personalizadas para cada ocasión.
 
----
+
 
 ## ✨ Beneficios Esperados
 
@@ -43,7 +42,7 @@ Creatividad: Descubre combinaciones que nunca habías probado.
 Organización: Todo tu guardarropa en una sola app.
 Seguridad: Viste con confianza sabiendo que tu outfit encaja contigo.
 
----
+
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -54,7 +53,7 @@ Seguridad: Viste con confianza sabiendo que tu outfit encaja contigo.
 * **Gestión de Proyecto:** Asana / Trello, Microsoft Project.
 * **Hosting:** GitHub Pages.
 
----
+
 
 ## 📂 Funcionalidades Principales
 
@@ -64,7 +63,7 @@ Seguridad: Viste con confianza sabiendo que tu outfit encaja contigo.
 * Catálogo de ropa y accesorios.
 * Carrito de compras y pagos seguros.
 
----
+
 
 ## 🚀 Estado del Proyecto
 
@@ -75,7 +74,7 @@ Añadir carrito de compras.
 Crear un catálogo interactivo.
 Implementar la prueba de ropa con realidad aumentada.
 
----
+
 
 ## 👥 Equipo
 
@@ -83,7 +82,7 @@ Implementar la prueba de ropa con realidad aumentada.
 * **Encargado de Bases de Datos:** David Mateo Moyano
 * **Encargada de Realidad Aumentada:** Micheel Fernanda Quintero
 
----
+
 
 ## 📜 Licencia
 
